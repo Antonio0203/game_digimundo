@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878111515635",
+    "project_id": "digimundo-app",
+    "storage_bucket": "digimundo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878111515635:android:dba1c223382b1647d76886",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYW4hqMm2iP8XYrl03KmA_hnVNcW85JaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
